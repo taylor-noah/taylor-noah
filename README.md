@@ -1,16 +1,22 @@
-## Hi there 👋
+# Noah Taylor 
 
-<!--
-**taylor-noah/taylor-noah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+⌨️ **Code** | 🧩 **Solve** | 🔄 **Iterate**
 
-Here are some ideas to get you started:
+### Current Focus
+- Building robust backend systems
+- Exploring systems programming
+- Contributing to OSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Languages & Tools
+[![Rust](https://img.shields.io/badge/-Rust-000000?logo=rust)](https://www.rust-lang.org/)
+[![Python](https://img.shields.io/badge/-Python-3776AB?logo=python)](https://www.python.org/) 
+[![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go)](https://golang.org/)
+[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql)](https://www.postgresql.org/)
+[![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker)](https://www.docker.com/)
+
+### Recent Explorations
+```rust
+fn main() {
+    println!("Learning through building");
+}
+```
